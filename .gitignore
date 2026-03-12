@@ -1,0 +1,7 @@
+.git/
+vcpkg-downloads/
+vcpkg-artifacts/
+*.nupkg
+*.log
+build/
+.DS_Store
